@@ -1,0 +1,3 @@
+# About this Guided Project
+
+This guided project I learned how estimate the durations of project activities. I estimated the duration of project activities, using techniques such as Expert Judgment, Analogy, and Parametric Estimation. After creating a WBS and decomposed the work packages into the necessary activies I was able to utilize the bottom up estimation technique. I improved the accuracy of my estimate by implementing the three-point estimation technique, taking into account risk and uncertainty. I also learned how use statistics to come up with an Interval Estimate with a up to a 99%  confidence level.
